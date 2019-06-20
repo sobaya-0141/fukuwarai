@@ -1,0 +1,2 @@
+include ':app', ':fukuwarai-core'
+rootProject.name='Fukuwarai'
